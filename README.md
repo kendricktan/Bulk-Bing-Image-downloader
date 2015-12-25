@@ -16,8 +16,8 @@ This forked version of the Bulk Bing Image Downloader has all of the original, b
 	dogs woofing; 10
 	potatoes gonna potate; 20
 
-****Do note that the number in the keyword list indicates the number of ATTEMPTED DOWNLOADS, not successfuly downloads*
+*Do note that the number in the keyword list indicates the number of ATTEMPTED DOWNLOADS, not successfuly downloads*
 
 Usage
 =====
-python3 bbid.py <keywords_list.txt> [-o <output directory=./bing>] [--filter] [--no-filter] [-h]`
+    python3 bbid.py [keywords_list.txt] [-o [output directory=./bing]] [--filter] [--no-filter] [-h]
